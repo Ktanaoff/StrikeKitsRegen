@@ -1,4 +1,4 @@
-# StrikeKitsRegen
+# StrikeKitsRegen 8Test9
 Fast and simple addon for StrikePractice plugin.
 The plugin wants to make your players ready to fight everytime.
 
